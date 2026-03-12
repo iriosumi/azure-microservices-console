@@ -1,0 +1,12 @@
+C:\Profuturo\TEST CLAUDE\App Service\azure-microservices-console\backend\src\main\java\com\azure\poc\AzurePocApplication.java
+C:\Profuturo\TEST CLAUDE\App Service\azure-microservices-console\backend\src\main\java\com\azure\poc\dto\LogEntry.java
+C:\Profuturo\TEST CLAUDE\App Service\azure-microservices-console\backend\src\main\java\com\azure\poc\service\MicroServiceService.java
+C:\Profuturo\TEST CLAUDE\App Service\azure-microservices-console\backend\src\main\java\com\azure\poc\dto\ServiceActionRequest.java
+C:\Profuturo\TEST CLAUDE\App Service\azure-microservices-console\backend\src\main\java\com\azure\poc\controller\ServiceController.java
+C:\Profuturo\TEST CLAUDE\App Service\azure-microservices-console\backend\src\main\java\com\azure\poc\service\MetricsSimulator.java
+C:\Profuturo\TEST CLAUDE\App Service\azure-microservices-console\backend\src\main\java\com\azure\poc\model\MicroService.java
+C:\Profuturo\TEST CLAUDE\App Service\azure-microservices-console\backend\src\main\java\com\azure\poc\dto\InstanceSummary.java
+C:\Profuturo\TEST CLAUDE\App Service\azure-microservices-console\backend\src\main\java\com\azure\poc\service\ServiceRunner.java
+C:\Profuturo\TEST CLAUDE\App Service\azure-microservices-console\backend\src\main\java\com\azure\poc\repository\MicroServiceRepository.java
+C:\Profuturo\TEST CLAUDE\App Service\azure-microservices-console\backend\src\main\java\com\azure\poc\config\CorsConfig.java
+C:\Profuturo\TEST CLAUDE\App Service\azure-microservices-console\backend\src\main\java\com\azure\poc\dto\MetricsResponse.java

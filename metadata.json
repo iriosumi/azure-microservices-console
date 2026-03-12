@@ -1,0 +1,5 @@
+{
+  "name": "Azure Microservices Console",
+  "description": "A professional dashboard for managing and monitoring Java Spring Boot microservices on Azure App Service.",
+  "requestFramePermissions": []
+}

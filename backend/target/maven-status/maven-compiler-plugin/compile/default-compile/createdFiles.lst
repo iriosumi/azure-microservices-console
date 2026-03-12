@@ -1,0 +1,14 @@
+com\azure\poc\config\CorsConfig$1.class
+com\azure\poc\dto\LogEntry.class
+com\azure\poc\dto\InstanceSummary.class
+com\azure\poc\model\MicroService.class
+com\azure\poc\repository\MicroServiceRepository.class
+com\azure\poc\dto\ServiceActionRequest.class
+com\azure\poc\service\ServiceRunner.class
+com\azure\poc\config\CorsConfig.class
+com\azure\poc\service\ServiceRunner$WorkTask.class
+com\azure\poc\service\MicroServiceService.class
+com\azure\poc\service\MetricsSimulator.class
+com\azure\poc\AzurePocApplication.class
+com\azure\poc\controller\ServiceController.class
+com\azure\poc\dto\MetricsResponse.class
